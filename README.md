@@ -12,7 +12,7 @@ My goal is to gain experience in cybersecurity and acquire the necessary tools f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Tor ProxyChains Kali Linux VM project         | <a href="[https://github.com/MuratGulsal/-MuratGulsal]">Detection Lab</a>|
+| Tor ProxyChains Kali Linux VM project         | <a href="https://github.com/MuratGulsal/-MuratGulsal">Detection Lab</a>|
 
 ## Tools
 <img src="https://img.shields.io/badge/-VirtualBox_Oracle-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" /> 
@@ -31,4 +31,4 @@ My goal is to gain experience in cybersecurity and acquire the necessary tools f
 </div>
 
 ## Projects
-- Tor ProxyChains Kali Linux VM project | How to be anonymous in Kali Linux <a href="[https://github.com/MuratGulsal/-MuratGulsal]">Detection Lab</a>|
+- Tor ProxyChains Kali Linux VM project | How to be anonymous in Kali Linux <a href="https://github.com/MuratGulsal/-MuratGulsal">Detection Lab</a>|
