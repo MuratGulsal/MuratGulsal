@@ -31,4 +31,4 @@ My goal is to gain experience in cybersecurity and acquire the necessary tools f
 </div>
 
 ## Projects
-- Tor ProxyChains Kali Linux VM project | How to be anonymous on the internet?   
+- Tor ProxyChains Kali Linux VM project | How to be anonymous in Kali Linux   
